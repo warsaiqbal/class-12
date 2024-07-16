@@ -56,8 +56,7 @@
 
 //5. Typecasting
 //converting unknown data type into another
-// let f: unknown
-// f = "abc"
+// let f: unknown = "abc"
 // console.log((f as string).toUpperCase()) 
 
 //6. Tuples
